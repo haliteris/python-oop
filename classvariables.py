@@ -21,7 +21,7 @@ class Employee:
 
 print('Number of Employees: '+ str(Employee.num_of_emps))
 
-emp_1 = Employee('Corey', 'Scahfer', 50000)
+emp_1 = Employee('Halit', 'Eris', 50000)
 emp_2 = Employee('User', 'Test', 60000)
 
 print('Number of Employees: '+ str(Employee.num_of_emps))
